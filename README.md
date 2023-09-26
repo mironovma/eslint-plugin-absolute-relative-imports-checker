@@ -33,7 +33,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
   "rules": {
-    "absolute-imports-checker/rule-name": 2
+    "absolute-imports-checker/path-checker": 2
   }
 }
 ```
