@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-absolute-imports-checker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint plugin that checks absolute and relative paths with Feature Slice Design architecture.",
   "keywords": [
     "eslint",
